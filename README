@@ -1,0 +1,3 @@
+To run the app on MacOS with dotnet installed
+
+dotnet run --project ConsoleApp/ConsoleApp.csproj -- <word> <path-to-dictionary> 
